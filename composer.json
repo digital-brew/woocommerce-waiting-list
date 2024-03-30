@@ -1,0 +1,11 @@
+{
+  "name": "digital-brew/woocommerce-waiting-list",
+  "type": "wordpress-plugin",
+  "homepage": "https://github.com/digital-brew/woocommerce-waiting-list",
+  "license": "GPL-2.0",
+  "description": "This plugin enables registered users to request an email notification when an out-of-stock product comes back into stock.",
+  "keywords": ["plugin","wordpress"],
+  "require": {
+    "composer/installers": "^2.2.2"
+  }
+}
